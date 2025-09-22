@@ -41,21 +41,13 @@ Key features include:
    cd Real-Time-Market-Data-Forecasting/Codes
 ````
 
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   *(Create `requirements.txt` if not available — typical libraries: NumPy, Pandas, Scikit-learn, PyTorch/TensorFlow, Matplotlib.)*
-
-3. Preprocess data:
+2. Preprocess data:
 
    ```bash
    jupyter notebook process-data-txr.ipynb
    ```
 
-4. Train and evaluate:
+3. Train and evaluate:
 
    ```bash
    python TimeXer_V2.6.py
