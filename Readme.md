@@ -12,25 +12,6 @@ The repository integrates **research documentation**, **model design (TimeXer)**
 
 ---
 
-## 📂 Repository Structure
-
-```
-
-.
-├── Codes/                     # Source code and notebooks
-│   ├── process-data-txr.ipynb # Data preprocessing and exploration
-│   └── TimeXer\_V2.6.py        # Core TimeXer model implementation
-│
-├── Results.pdf                # Final experimental results
-├── TimeXer\_Version\_2.6.pdf    # Model version documentation
-├── Timexer\_model\_Training.pdf # Training methodology and experiments
-├── Tag\_Embedding.pdf          # Tag embedding research notes
-└── Readme.md                  # This file
-
-````
-
----
-
 ## 🚀 Project Overview
 
 The **TimeXer** model is the central component of this project. It is designed to capture both short-term volatility and long-term patterns in market data.  
@@ -111,7 +92,7 @@ Contributions are welcome. Please open an issue or a pull request to suggest imp
 
 ## 📜 License
 
-This repository is released under [MIT License](LICENSE) (or whichever applies).
+This repository is released under [MIT License](LICENSE).
 
 ```
 
