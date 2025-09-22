@@ -1,5 +1,3 @@
-Got it. No fancy links this time — here’s the **exact content** you can just copy-paste into your `README.md` file:
-
 ```markdown
 # Real-Time Market Data Forecasting
 
