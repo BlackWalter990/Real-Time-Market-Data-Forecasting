@@ -57,7 +57,7 @@ Key features include:
 
 ## 📊 Results
 
-* Detailed results available in [Results.pdf](../Results.pdf).
+* Detailed results available in [Results.pdf](https://github.com/BlackWalter990/Real-Time-Market-Data-Forecasting/blob/main/Results.pdf).
 * Highlights:
 
   * TimeXer outperforms baseline sequence models in forecasting accuracy.
